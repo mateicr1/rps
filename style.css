@@ -2,3 +2,15 @@ body{
     font-family: Verdana;
     font-size: 2em;
 }
+
+#buttons {
+    text-align: center;
+}
+
+#gameTab {
+    text-align: center;
+}
+
+#startGameDiv {
+    text-align: center;
+}
